@@ -34,6 +34,3 @@
 - **Overview:** Built and programmed an interactive hardware mini-game prototype on a breadboard, focusing on I/O interfacing and real-time control logic.
 
 ---
-
-### 📜 Certifications
-- 🎓 **Electrodynamics** – Coursera | [Verify Certificate]([https://www.coursera.org/verify/YOUR_LINK_3](https://coursera.org/share/24e8ac5f7ce4aedee6f395b08dc1b9b2))
