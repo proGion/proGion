@@ -1,7 +1,7 @@
 # Hi there, I'm Nguyen Dang Khoa 👋
 
 ### 🎓 Integrated Circuit (IC) Design & VLSI Student
-- 🏫 **University:** FPT University, Ho Chi Minh City, Vietnam (Year 3)
+- 🏫 **University:** FPT University, Ho Chi Minh City, Vietnam
 - 🔭 **Current Focus:** Digital Logic Design, RTL Design & Verification (Verilog HDL), and Semiconductor Foundations
 - 🎯 **Goal:** Seeking hands-on experience in the **RTL-to-GDSII** design flow, functional verification, and physical design
 - 📫 **Contact:** [dangbin1982@gmail.com](mailto:dangbin1982@gmail.com)
